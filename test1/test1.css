@@ -1,0 +1,108 @@
+.div1{
+    height: 30vh;
+    width: 97%;
+    padding: 20px;
+    display: flex;
+}
+.div2{ 
+    height: 23vh;
+    width: 97%;
+    padding: 20px;
+}
+.div3{  
+    height: 30vh;
+    width: 97%;
+    padding: 20px;
+    display: flex;
+}
+.child1{
+     
+    width: 25%;
+    height: 100%;
+}
+.child2{
+     
+    width: 74%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+.divh1{
+     
+    height: 30%;
+    width: 100%;
+    display: flex;
+}
+.divh2{
+     
+    height: 70%;
+    width: 100%;
+}
+.para1{
+    padding-left: 20px;
+}
+    
+
+.child-h1{
+     
+    height: 100%;
+    width: 10%;
+}
+.child-h2{
+     
+    height: 100%;
+    width: 75%;
+}
+.child-h3{
+     
+    height: 100%;
+    width: 15%;
+}
+.heading_img{
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+.div3-child1{
+     
+    height: 100%;
+    width: 33%;
+}
+.div3-child3{
+     
+    height: 100%;
+    width: 33%;
+}
+.div3-child2{
+     
+    height: 100%;
+    width: 33%;
+}
+.div3-img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.div3-img-div{
+     
+    height: 75%;
+    width: 100%;
+}
+.div3-divh{
+    height: 25%;
+    width: 100%;
+}
+.align_center{
+ text-align: center;
+}
+.padding_left{
+    padding-left: 20px;
+}
+.no_margin{
+    margin: 0px;
+}

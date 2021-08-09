@@ -1,0 +1,25 @@
+.div-one{
+    border-bottom: outset;
+    height: 50%;
+    width: 50%;
+    display: flex;
+}
+.div-two{
+    margin-left: 60%;
+}
+.div-three{
+    padding-left: 100px;
+}
+.div-four{
+    border: 2px solid;
+}
+.table-one{
+    border: 1px solid ;
+}
+.para{
+    text-indent: 30px;
+}
+.span-one{
+    /* text-align: right; */
+    padding-left: 75vw;
+}
